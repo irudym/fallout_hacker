@@ -9,7 +9,7 @@ Actually, the game is very simple (much simple than it was in the previous versi
 
 The algorithm shows very good results and mostly solves the puzzle in 4 turns.
 
-Below is histogram of solution probabilities depending of amount of tries.
+Below is histogram of solution probabilities depending on amount of tries.
 
 | TRY |          PROBABILITY |
 |-----|:---------------------|
